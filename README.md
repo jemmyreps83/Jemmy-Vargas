@@ -31,7 +31,6 @@ e indicadores de gestión pública que sustentan la toma de decisiones.
 ### 💼 Experiencia destacada
 
 - **Analista Econométrico (MYPE e Industria)** — Ministerio de la Producción (PRODUCE), OEE-OGEIEE *(2022–presente)*
-- **Consultor Estadístico** — OSINFOR: medición del Índice y Porcentaje de Tala y Comercio Ilegal de Madera en Perú *(2022–2025)*
 - **Consultor Independiente** — Programa USAID/USFS FOREST: diseño y estimación estadística de oferta y demanda de madera *(2021–2022)*
 - **Especialista Económico II/III** — OEFA y SENACE: estudios de impacto regulatorio e indicadores de desempeño ambiental *(2019–2021)*
 - **Analista en Gestión Socioeconómica y Ambiental** — Ministerio del Ambiente (MINAM) *(2018)*
